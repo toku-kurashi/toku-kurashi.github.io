@@ -91,3 +91,29 @@ footer {
   margin: 28px 0;
   border: 1px dashed #f0d9c0;
 }
+.cta {
+  background: #fff4e6;
+  border: 1px solid #ffd8a8;
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin: 20px 0;
+  text-align: center;
+}
+.cta .pr {
+  display: inline-block;
+  background: #d9530f;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 1px 8px;
+  border-radius: 4px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+.cta a {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #d9530f;
+  text-decoration: none;
+}
+.cta a:hover { text-decoration: underline; }
