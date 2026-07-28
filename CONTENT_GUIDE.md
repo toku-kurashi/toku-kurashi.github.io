@@ -37,6 +37,7 @@
 ## 記事のHTMLテンプレート
 `articles/` 配下の既存ファイル（例：`vod-free-trial-comparison.html`）をコピーして構造を踏襲すること。
 - `<link rel="stylesheet" href="../style.css">`
+- 直後に必ずアクセス解析タグを入れる：`<script data-goatcounter="https://toku-kurashi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>`
 - 見出し`h1`→更新日`<p class="date">`→本文→比較表（該当する場合）→`.cta`→`<div class="disclosure">`定型免責文→`<a class="back" href="../index.html">`
 
 ## 実行手順（このガイドを参照するタスクが毎回行うこと）
