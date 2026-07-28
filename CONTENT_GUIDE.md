@@ -34,6 +34,14 @@
 </div>
 ```
 
+### WOWOWオンデマンド（VOD）
+```html
+<div class="cta">
+<span class="pr">PR</span>
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8ACW+EUNA0I+5DFW+5Z6WX" rel="nofollow"><img border="0" width="100" height="60" alt="" src="https://www29.a8.net/svt/bgt?aid=260727152898&wid=001&eno=01&mid=s0000002507001004000&mc=1"></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B8ACW+EUNA0I+5DFW+5Z6WX" alt="">
+</div>
+```
+
 ## 記事のHTMLテンプレート
 `articles/` 配下の既存ファイル（例：`vod-free-trial-comparison.html`）をコピーして構造を踏襲すること。
 - `<link rel="stylesheet" href="../style.css">`
