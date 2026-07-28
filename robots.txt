@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kurashi-navi.github.io/kurashi-navi/sitemap.xml
+Sitemap: https://toku-kurashi.github.io/sitemap.xml
