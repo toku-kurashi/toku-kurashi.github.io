@@ -52,7 +52,7 @@
 ## 実行手順（このガイドを参照するタスクが毎回行うこと）
 1. `TOPICS.md` を読み、`未使用`の中から1つ選ぶ（ジャンルはVOD/クラウドソーシング両方から順番に）
 2. `articles/<slug>.html` を新規作成し、客観的な情報記事を書く（該当するアフィリエイトリンクを1〜2個、上記から選んで`.cta`で挿入）
-3. `index.html` の `<main>` 内、一覧の一番上に新しい記事カードを追加（既存カードは残す）。カードの `<span class="date">` の直後にジャンルタグを付ける：VOD系記事は `<span class="tag tag-vod">VOD</span>`、クラウドソーシング系記事は `<span class="tag tag-work">お仕事</span>`
+3. `index.html` の `<main>` 内、一覧の一番上に新しい記事カードを追加（既存カードは残す）。`<div class="card">` タグに `data-tag="tag-vod"` または `data-tag="tag-work"` を付ける（ヘッダーのフィルターメニューが参照する）。カードの `<span class="date">` の直後にジャンルタグを付ける：VOD系記事は `<span class="tag tag-vod">VOD</span>`、クラウドソーシング系記事は `<span class="tag tag-work">お仕事</span>`
 4. `sitemap.xml` に新しい記事の `<url><loc>...</loc></url>` を追加
 5. `TOPICS.md` のその項目を `使用済み（YYYY-MM-DD）` に変更
 6. git add -A → commit（日本語で簡潔なメッセージ）→ push

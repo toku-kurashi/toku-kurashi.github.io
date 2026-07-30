@@ -9,8 +9,20 @@ body {
 header {
   background: linear-gradient(120deg, #ff8a5c 0%, #ffb648 100%);
   color: #fff;
-  padding: 40px 16px 32px;
-  text-align: center;
+  padding: 24px 16px 32px;
+}
+.header-top {
+  max-width: 780px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.header-title {
+  text-align: left;
+  flex: 1 1 auto;
 }
 header h1 {
   margin: 0;
@@ -23,6 +35,29 @@ header p {
   margin: 8px 0 0;
   color: #fff4e6;
   font-size: 1rem;
+}
+.site-nav {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+.nav-btn {
+  background: rgba(255,255,255,0.18);
+  border: 1px solid rgba(255,255,255,0.5);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+.nav-btn:hover { background: rgba(255,255,255,0.3); }
+.nav-btn.active {
+  background: #fff;
+  color: #d9530f;
+  border-color: #fff;
 }
 main {
   max-width: 780px;
