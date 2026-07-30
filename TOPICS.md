@@ -4,9 +4,9 @@
 - 動画配信サービスの無料体験まとめ比較（2026-07-27, articles/vod-free-trial-comparison.html）
 - 在宅ワーク・クラウドソーシングサービス比較（2026-07-27, articles/crowdsourcing-comparison.html）
 - ABEMAプレミアムはどんな人におすすめ？料金・見放題作品の傾向まとめ（使用済み 2026-07-28, articles/abema-premium-recommendation.html）
+- クラウディアの始め方：登録から案件応募までの流れ（使用済み 2026-07-30, articles/craudia-getting-started.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- クラウディアの始め方：登録から案件応募までの流れ
 - 在宅ワークで注意したいこと（契約・報酬・確定申告の基礎知識まとめ）
 - VODサービスの解約忘れを防ぐコツと注意点まとめ
 - フジ子さんのようなオンラインアシスタントサービスが向いている事業者の特徴
