@@ -55,7 +55,14 @@
 `articles/` 配下の既存ファイル（例：`vod-free-trial-comparison.html`）をコピーして構造を踏襲すること。
 - `<link rel="stylesheet" href="../style.css">`
 - 直後に必ずアクセス解析タグを入れる：`<script data-goatcounter="https://toku-kurashi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>`
-- 見出し`h1`→更新日`<p class="date">`→本文→比較表（該当する場合）→`.cta`→`<div class="disclosure">`定型免責文→`<a class="back" href="../index.html">`
+- 見出し`h1`→更新日`<p class="date">`→**サムネイル画像（あれば）**`<img src="../images/<slug>.png" alt="..." class="article-thumb">`→本文→比較表（該当する場合）→`.cta`→`<div class="disclosure">`定型免責文→`<a class="back" href="../index.html">`
+
+### サムネイル画像について（2026-08-06〜運用開始）
+- 画像はユーザーがGemini等で生成し、Discord添付で送ってもらう（このPCではCodex CLI未インストールのため）。
+- 保存先：`images/<記事slug>.png`（例：`images/online-assistant-fit-business-type.png`）。
+- 記事側：`<img src="../images/<slug>.png" alt="内容を表す説明" class="article-thumb">`をh1直後・日付直後に挿入。
+- スタイル：`style.css`の`.article-thumb`クラス（幅100%・角丸・自動高さ）を使う。
+- 画風の指針：暖色系（オレンジ/クリーム）のフラットデザインイラスト、テキスト・ロゴなし、16:9、清潔感のあるビジネス系。サイトのfaviconと同系色でトーンを揃える。
 
 ## 実行手順（このガイドを参照するタスクが毎回行うこと）
 1. `TOPICS.md` を読み、`未使用`の中から1つ選ぶ（ジャンルはVOD/クラウドソーシング両方から順番に）

@@ -121,6 +121,7 @@ main.card-grid {
 .tag-vod { background: #e3f0ff; color: #1c5fa8; }
 .tag-work { background: #e8f7ec; color: #1f8a4c; }
 article { max-width: 760px; margin: 0 auto; background: #fff; border-radius: 16px; padding: 28px; box-shadow: 0 4px 14px rgba(255,140,60,0.1); }
+.article-thumb { width: 100%; height: auto; border-radius: 12px; margin: 12px 0 20px; display: block; }
 article h1 { font-size: 1.7rem; color: #d9530f; }
 article h2 {
   font-size: 1.2rem;
