@@ -8,9 +8,9 @@
 - VODサービスの解約忘れを防ぐコツと注意点まとめ（使用済み 2026-08-01, articles/vod-cancellation-tips.html）
 - 在宅ワークで注意したいこと（契約・報酬・確定申告の基礎知識まとめ）（使用済み 2026-08-03, articles/remote-work-contract-tax-basics.html）
 - フジ子さんのようなオンラインアシスタントサービスが向いている事業者の特徴（使用済み 2026-08-05, articles/online-assistant-fit-business-type.html）
+- アニメ好きにおすすめのVODサービスはどれ？作品ラインナップの傾向比較（使用済み 2026-08-06, articles/anime-vod-lineup-comparison.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- アニメ好きにおすすめのVODサービスはどれ？作品ラインナップの傾向比較
 - クラウドソーシングでよくある案件ジャンルとその相場感まとめ
 - スキマ時間の在宅ワーク、初心者が最初にやるべきことまとめ
 - WOWOWオンデマンドはどんな人におすすめ？他のVODとの違いまとめ
