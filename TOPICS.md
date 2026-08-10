@@ -10,10 +10,10 @@
 - フジ子さんのようなオンラインアシスタントサービスが向いている事業者の特徴（使用済み 2026-08-05, articles/online-assistant-fit-business-type.html）
 - アニメ好きにおすすめのVODサービスはどれ？作品ラインナップの傾向比較（使用済み 2026-08-06, articles/anime-vod-lineup-comparison.html）
 - クラウドソーシングでよくある案件ジャンルとその相場感まとめ（使用済み 2026-08-08, articles/crowdsourcing-job-genres-price-range.html）
+- WOWOWオンデマンドはどんな人におすすめ？他のVODとの違いまとめ（使用済み 2026-08-10, articles/wowow-ondemand-recommendation.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
 - スキマ時間の在宅ワーク、初心者が最初にやるべきことまとめ
-- WOWOWオンデマンドはどんな人におすすめ？他のVODとの違いまとめ
 - 在宅ワークの確定申告、いくらから必要？年間所得別の目安まとめ
 - クラウドワークスとクラウディア、エージェント型サービスの違い比較
 - 動画配信サービスの家族アカウント・同時視聴ルールまとめ
