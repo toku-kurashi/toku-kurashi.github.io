@@ -156,6 +156,13 @@ footer {
   margin: 28px 0;
   border: 1px dashed #f0d9c0;
 }
+.note {
+  background: #fffaf3;
+  border-left: 4px solid #ffd8a8;
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin: 16px 0;
+}
 .cta {
   background: #fff4e6;
   border: 1px solid #ffd8a8;
