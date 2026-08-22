@@ -14,9 +14,9 @@
 - スキマ時間の在宅ワーク、初心者が最初にやるべきことまとめ（使用済み 2026-08-15, articles/remote-work-beginner-first-steps.html）
 - 動画配信サービスの家族アカウント・同時視聴ルールまとめ（使用済み 2026-08-17, articles/vod-family-account-simultaneous-streaming.html）
 - 在宅ワークの確定申告、いくらから必要？年間所得別の目安まとめ（使用済み 2026-08-20, articles/remote-work-tax-return-income-threshold.html）
+- VODサービスの画質・ダウンロード機能を比較、オフライン視聴に強いのはどれ（使用済み 2026-08-22, articles/vod-video-quality-download-offline.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
 - クラウドワークスとクラウディア、エージェント型サービスの違い比較
 - 在宅で始める副業、初期費用ゼロで始められるものまとめ
-- VODサービスの画質・ダウンロード機能を比較、オフライン視聴に強いのはどれ
 - 在宅ワーカーが使いたい確定申告ツール・記帳アプリの選び方
