@@ -51,6 +51,20 @@
 </div>
 ```
 
+
+### 楽天トラベル（旅行予約／楽天アフィリエイト経由・2026-08-24追加）
+※提携先は「楽天トラベル」。VOD・在宅ワーク記事とはテーマが合わないので、**旅行系の記事を書いたときだけ使う**。
+※★元コードのバナー画像は `http://` だった。当サイトはHTTPSなので**`https://` に直して使う**（混在コンテンツでブロックされるため）。
+```html
+<a href="https://rpx.a8.net/svt/ejp?a8mat=4B8ACW+B0IPO2+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26072738906_4B8ACW_B0IPO2_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F" rel="nofollow"><img src="https://hbb.afl.rakuten.co.jp/hsb/0ea7f9a4.79280dcb.0ea7f99d.1ac92fca/153145/" border="0"></a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B8ACW+B0IPO2+2HOM+6I9N5" alt="">
+```
+
+### ExpressVPN（VPNサービス・2026-08-24追加）
+※★訴求の切り口は**公衆Wi-Fiでの通信の安全性**に限定する。「VPNで地域制限を回避して海外の配信を見る」という書き方は各VODの利用規約違反を勧める形になるので**書かない**。
+```html
+<a href="https://px.a8.net/svt/ejp?a8mat=4B8ACW+EDDPGY+5JSS+5YRHE" rel="nofollow">ExpressVPN</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B8ACW+EDDPGY+5JSS+5YRHE" alt="">
+```
+
 ## 記事のHTMLテンプレート
 `articles/` 配下の既存ファイル（例：`vod-free-trial-comparison.html`）をコピーして構造を踏襲すること。
 - `<link rel="stylesheet" href="../style.css">`
