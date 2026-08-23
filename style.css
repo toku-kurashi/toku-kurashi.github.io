@@ -189,3 +189,79 @@ footer {
   text-decoration: none;
 }
 .cta a:hover { text-decoration: underline; }
+
+/* ---- 記事内の図解（画像） ---- */
+.art-fig {
+  margin: 24px 0 26px;
+}
+.art-fig img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(255, 140, 60, 0.10);
+}
+.art-fig figcaption {
+  font-size: 0.84rem;
+  color: #8a7a68;
+  line-height: 1.7;
+  margin-top: 8px;
+}
+
+/* ---- 記事内の図解（HTML/CSS） ---- */
+.fig-compare,
+.fig-cards {
+  display: grid;
+  gap: 14px;
+  margin: 20px 0 24px;
+}
+.fig-compare { grid-template-columns: 1fr 1fr; }
+.fig-cards { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+.fig-compare > div,
+.fig-cards > div {
+  background: #fffaf3;
+  border: 1px solid #f0d9c0;
+  border-radius: 12px;
+  padding: 14px 18px 16px;
+}
+.fig-compare h4,
+.fig-cards h4 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+  color: #b8460b;
+  border-bottom: 2px solid #ffd8a8;
+  padding-bottom: 6px;
+}
+.fig-compare ul {
+  margin: 0;
+  padding-left: 20px;
+}
+.fig-compare li { margin: 6px 0; }
+.fig-cards p {
+  margin: 0;
+  font-size: 0.95rem;
+}
+.fig-check {
+  list-style: none;
+  margin: 20px 0 24px;
+  padding: 16px 20px;
+  background: #fffaf3;
+  border: 1px solid #f0d9c0;
+  border-radius: 12px;
+}
+.fig-check li {
+  position: relative;
+  padding-left: 30px;
+  margin: 10px 0;
+}
+.fig-check li::before {
+  content: "\2713";
+  position: absolute;
+  left: 4px;
+  top: 0;
+  color: #1f8a4c;
+  font-weight: 700;
+}
+@media (max-width: 640px) {
+  .fig-compare { grid-template-columns: 1fr; }
+}
