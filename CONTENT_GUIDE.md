@@ -59,11 +59,19 @@
 <a href="https://rpx.a8.net/svt/ejp?a8mat=4B8ACW+B0IPO2+2HOM+6I9N5&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0eb4779e.5d30c5ba.0eb4779f.b871e4e3%2Fa26072738906_4B8ACW_B0IPO2_2HOM_6I9N5%3Fpc%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Ftravel.rakuten.co.jp%252F" rel="nofollow"><img src="https://hbb.afl.rakuten.co.jp/hsb/0ea7f9a4.79280dcb.0ea7f99d.1ac92fca/153145/" border="0"></a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B8ACW+B0IPO2+2HOM+6I9N5" alt="">
 ```
 
-### ExpressVPN（VPNサービス・2026-08-24追加）
+### 楽天市場（総合通販／楽天アフィリエイト経由・2026-08-25追加）
+※提携先は「楽天市場」。バナーは総合通販なので、**物販の話題（在宅ワークの機材・生活用品など）に自然に絡む記事でだけ使う**。VOD比較記事に脈絡なく置かない。
+※★元コードのバナー画像も `http://` だった。**`https://` に直して使う**（混在コンテンツでブロックされるため）。
+```html
+<a href="https://rpx.a8.net/svt/ejp?a8mat=4B8ACW+B0IPO2+2HOM+656YP&rakuten=y&a8ejpredirect=http%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F0ea62065.34400275.0ea62066.204f04c0%2Fa26072738906_4B8ACW_B0IPO2_2HOM_656YP%3Fpc%3Dhttp%253A%252F%252Fwww.rakuten.co.jp%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252F" rel="nofollow"><img src="https://hbb.afl.rakuten.co.jp/hsb/0ec09ba3.bc2429d5.0eb4bbaa.95151395/" border="0"></a><img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4B8ACW+B0IPO2+2HOM+656YP" alt="">
+```
+
+### ExpressVPN（VPNサービス・2026-08-24追加／2026-08-25に記事実装）
 ※★訴求の切り口は**公衆Wi-Fiでの通信の安全性**に限定する。「VPNで地域制限を回避して海外の配信を見る」という書き方は各VODの利用規約違反を勧める形になるので**書かない**。
 ```html
 <a href="https://px.a8.net/svt/ejp?a8mat=4B8ACW+EDDPGY+5JSS+5YRHE" rel="nofollow">ExpressVPN</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B8ACW+EDDPGY+5JSS+5YRHE" alt="">
 ```
+※実装済み：`articles/public-wifi-security-vpn-basics.html`（専用記事）と `articles/vod-video-quality-download-offline.html`（外出先で見るときの節）。
 
 ## 記事のHTMLテンプレート
 `articles/` 配下の既存ファイル（例：`vod-free-trial-comparison.html`）をコピーして構造を踏襲すること。

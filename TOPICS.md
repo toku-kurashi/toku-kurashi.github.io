@@ -16,6 +16,7 @@
 - 在宅ワークの確定申告、いくらから必要？年間所得別の目安まとめ（使用済み 2026-08-20, articles/remote-work-tax-return-income-threshold.html）
 - VODサービスの画質・ダウンロード機能を比較、オフライン視聴に強いのはどれ（使用済み 2026-08-22, articles/vod-video-quality-download-offline.html）
 - クラウドソーシングとエージェント型サービスの違い比較（使用済み 2026-08-24, articles/crowdsourcing-vs-agent-service-comparison.html）
+- 公衆Wi-Fiは安全？カフェ・ホテルで動画を見る前に知っておきたい通信の話（使用済み 2026-08-25, articles/public-wifi-security-vpn-basics.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
 - 在宅で始める副業、初期費用ゼロで始められるものまとめ
