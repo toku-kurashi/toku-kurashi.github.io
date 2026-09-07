@@ -102,3 +102,9 @@
 4. `sitemap.xml` に新しい記事の `<url><loc>...</loc></url>` を追加
 5. `TOPICS.md` のその項目を `使用済み（YYYY-MM-DD）` に変更
 6. git add -A → commit（日本語で簡潔なメッセージ）→ push
+
+### canonical タグ（2026-09-07〜必須）
+- 全ページの `<head>` で `<meta name="description">` の直後に `<link rel="canonical" href="https://toku-kurashi.net/articles/<slug>.html">` を入れる（トップは `https://toku-kurashi.net/`）。Search Console の「重複・正規ページ未選択」対策。新記事でも忘れないこと。
+
+### サムネイル画像（2026-09-07 更新）
+- `workspaces/marketing/thumb_specs.py` に slug の仕様（tag/l1/l2/l3/sub/scene）を追加し、`python make_thumbs.py <slug>` で生成できる（xAI Imagine・キーは同フォルダの .env）。ユーザー添付を待つ必要はない。
