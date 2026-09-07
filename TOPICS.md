@@ -21,9 +21,9 @@
 - 在宅ワーカーが使いたい確定申告ツール・記帳アプリの選び方（使用済み 2026-08-31, articles/remote-work-accounting-app-selection.html）
 - 映画好き向けVODの選び方：新作レンタルと見放題の違い・ポイント付与の仕組み比較（使用済み 2026-09-03, articles/vod-movie-rental-vs-subscription-points.html）
 - クラウドソーシングのプロフィール・提案文の書き方、受注につながる項目まとめ（使用済み 2026-09-05, articles/crowdsourcing-profile-proposal-writing.html）
+- スポーツ中継が見られるVOD・配信サービスの比較（見られる競技と契約形態の違い）（使用済み 2026-09-07, articles/sports-streaming-service-comparison.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- スポーツ中継が見られるVOD・配信サービスの比較（見られる競技と契約形態の違い）
 - 在宅ワークの作業環境づくり：机・椅子・ネット回線で優先度が高いのはどれ
 - VODの無料体験を「はしご」する前に知っておきたい再登録・再体験のルール
 - 在宅ワークで消耗しないための時間管理：案件の受けすぎを防ぐ目安と断り方
