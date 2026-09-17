@@ -25,9 +25,9 @@
 - 在宅ワークの作業環境づくり：机・椅子・ネット回線で優先度が高いのはどれ（使用済み 2026-09-11, articles/remote-work-workspace-setup-priority.html）
 - VODの無料体験を「はしご」する前に知っておきたい再登録・再体験のルール（使用済み 2026-09-12, articles/vod-free-trial-reregistration-rules.html）
 - 在宅ワークで消耗しないための時間管理：案件の受けすぎを防ぐ目安と断り方（使用済み 2026-09-14, articles/remote-work-time-management-avoid-overload.html）
+- VODの月額料金を年間で比べる：年払い・キャリア決済・ポイント還元まで含めた実質負担の考え方（使用済み 2026-09-17, articles/vod-annual-cost-payment-methods-comparison.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- VODの月額料金を年間で比べる：年払い・キャリア決済・ポイント還元まで含めた実質負担の考え方
 - テレビでVODを見る方法まとめ：スマートTV・Fire TV・ゲーム機・HDMI接続の違いと選び方
 - 海外ドラマ・韓国ドラマに強いVODはどれ？ラインナップの傾向比較
 - 子ども向け作品に強いVODとペアレンタルコントロール機能の比較
