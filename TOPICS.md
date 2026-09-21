@@ -27,9 +27,9 @@
 - 在宅ワークで消耗しないための時間管理：案件の受けすぎを防ぐ目安と断り方（使用済み 2026-09-14, articles/remote-work-time-management-avoid-overload.html）
 - VODの月額料金を年間で比べる：年払い・キャリア決済・ポイント還元まで含めた実質負担の考え方（使用済み 2026-09-17, articles/vod-annual-cost-payment-methods-comparison.html）
 - 在宅ワークの単価交渉と値上げのタイミング：実績の見せ方と伝え方（使用済み 2026-09-19, articles/remote-work-rate-negotiation-timing.html）
+- テレビでVODを見る方法まとめ：スマートTV・Fire TV・ゲーム機・HDMI接続の違いと選び方（使用済み 2026-09-21, articles/vod-watch-on-tv-device-comparison.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- テレビでVODを見る方法まとめ：スマートTV・Fire TV・ゲーム機・HDMI接続の違いと選び方
 - 海外ドラマ・韓国ドラマに強いVODはどれ？ラインナップの傾向比較
 - 子ども向け作品に強いVODとペアレンタルコントロール機能の比較
 - VODの字幕・吹き替え・音声設定の違いまとめ（語学学習に使えるサービスも）
