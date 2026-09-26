@@ -29,9 +29,9 @@
 - 在宅ワークの単価交渉と値上げのタイミング：実績の見せ方と伝え方（使用済み 2026-09-19, articles/remote-work-rate-negotiation-timing.html）
 - テレビでVODを見る方法まとめ：スマートTV・Fire TV・ゲーム機・HDMI接続の違いと選び方（使用済み 2026-09-21, articles/vod-watch-on-tv-device-comparison.html）
 - 在宅ワークの請求書・納品書の書き方とインボイス制度の基礎（使用済み 2026-09-24, articles/remote-work-invoice-delivery-note-basics.html）
+- 海外ドラマ・韓国ドラマに強いVODはどれ？ラインナップの傾向比較（使用済み 2026-09-26, articles/overseas-korean-drama-vod-lineup-comparison.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- 海外ドラマ・韓国ドラマに強いVODはどれ？ラインナップの傾向比較
 - 子ども向け作品に強いVODとペアレンタルコントロール機能の比較
 - VODの字幕・吹き替え・音声設定の違いまとめ（語学学習に使えるサービスも）
 - 在宅ワークで使う定番ツール比較：チャット・タスク管理・ファイル共有の選び方
