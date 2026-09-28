@@ -30,11 +30,11 @@
 - テレビでVODを見る方法まとめ：スマートTV・Fire TV・ゲーム機・HDMI接続の違いと選び方（使用済み 2026-09-21, articles/vod-watch-on-tv-device-comparison.html）
 - 在宅ワークの請求書・納品書の書き方とインボイス制度の基礎（使用済み 2026-09-24, articles/remote-work-invoice-delivery-note-basics.html）
 - 海外ドラマ・韓国ドラマに強いVODはどれ？ラインナップの傾向比較（使用済み 2026-09-26, articles/overseas-korean-drama-vod-lineup-comparison.html）
+- 在宅ワークで使う定番ツール比較：チャット・タスク管理・ファイル共有の選び方（使用済み 2026-09-28, articles/remote-work-tools-chat-task-file-sharing-comparison.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
 - 子ども向け作品に強いVODとペアレンタルコントロール機能の比較
 - VODの字幕・吹き替え・音声設定の違いまとめ（語学学習に使えるサービスも）
-- 在宅ワークで使う定番ツール比較：チャット・タスク管理・ファイル共有の選び方
 - データ入力・文字起こし・ライティング：初心者向け在宅案件の違いと向き不向き
 - 在宅ワークの危険な案件の見分け方：前払い要求・高額教材・情報商材の注意点
 - オンラインアシスタントの料金相場と契約形態（時間制・月額制・成果報酬）の違い
