@@ -37,9 +37,9 @@
 - 在宅ワークの危険な案件の見分け方：前払い要求・高額教材・情報商材の注意点（使用済み 2026-10-08, articles/remote-work-dangerous-job-warning-signs.html）
 - VODの「見放題」と「レンタル」「購入」の違い：同じ作品でも料金が変わる理由と確認方法（使用済み 2026-10-10, articles/vod-subscription-rental-purchase-difference.html）
 - オンラインアシスタントの料金相場と契約形態（時間制・月額制・成果報酬）の違い（使用済み 2026-10-12, articles/online-assistant-pricing-contract-types.html）
+- 在宅ワークと扶養・社会保険：主婦・副業会社員が気をつけたい収入の境界線（使用済み 2026-10-15, articles/remote-work-dependent-social-insurance-income-limits.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- 在宅ワークと扶養・社会保険：主婦・副業会社員が気をつけたい収入の境界線
 - VODの通信量はどれくらい？スマホ回線で見るときの画質設定とデータ節約の考え方
 - 在宅ワークの情報管理：取引先のデータを扱うときの機密保持とパスワード管理の基本
 - 複数のVODを契約しているときの整理術：重複する作品・使っていないサービスの見直し方
