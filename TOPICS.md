@@ -40,9 +40,9 @@
 - 在宅ワークと扶養・社会保険：主婦・副業会社員が気をつけたい収入の境界線（使用済み 2026-10-15, articles/remote-work-dependent-social-insurance-income-limits.html）
 - VODの通信量はどれくらい？スマホ回線で見るときの画質設定とデータ節約の考え方（使用済み 2026-10-17, articles/vod-mobile-data-usage-quality-settings.html）
 - 在宅ワークの情報管理：取引先のデータを扱うときの機密保持とパスワード管理の基本（使用済み 2026-10-19, articles/remote-work-client-data-confidentiality-password-basics.html）
+- 複数のVODを契約しているときの整理術：重複する作品・使っていないサービスの見直し方（使用済み 2026-10-22, articles/multiple-vod-subscriptions-review-organize.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- 複数のVODを契約しているときの整理術：重複する作品・使っていないサービスの見直し方
 - 在宅ワークの納期管理と遅れそうなときの連絡：信頼を落とさない報告のタイミングと伝え方
 - VODの視聴履歴・おすすめ機能の仕組み：家族で使うときのプロフィール分けと履歴の整理方法
 - 在宅ワークで複数の取引先を抱えるときの管理術：案件・請求・連絡先を混線させない整理の基本
