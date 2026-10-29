@@ -43,8 +43,8 @@
 - 複数のVODを契約しているときの整理術：重複する作品・使っていないサービスの見直し方（使用済み 2026-10-22, articles/multiple-vod-subscriptions-review-organize.html）
 - 在宅ワークの納期管理と遅れそうなときの連絡：信頼を落とさない報告のタイミングと伝え方（使用済み 2026-10-24, articles/remote-work-deadline-management-delay-communication.html）
 - VODの視聴履歴・おすすめ機能の仕組み：家族で使うときのプロフィール分けと履歴の整理方法（使用済み 2026-10-26, articles/vod-viewing-history-recommendation-family-profiles.html）
+- 在宅ワークで複数の取引先を抱えるときの管理術：案件・請求・連絡先を混線させない整理の基本（使用済み 2026-10-29, articles/remote-work-multiple-clients-management-basics.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- 在宅ワークで複数の取引先を抱えるときの管理術：案件・請求・連絡先を混線させない整理の基本
 - VODの字幕・音声ガイドなどアクセシビリティ機能の比較：高齢の家族や聞き取りづらい人向けの設定
 - 在宅ワークの「実績ゼロ」期間の乗り越え方：最初の案件を取るまでにできる準備と小さく始める方法
