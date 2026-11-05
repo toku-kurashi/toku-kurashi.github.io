@@ -46,9 +46,9 @@
 - 在宅ワークで複数の取引先を抱えるときの管理術：案件・請求・連絡先を混線させない整理の基本（使用済み 2026-10-29, articles/remote-work-multiple-clients-management-basics.html）
 - VODの字幕・音声ガイドなどアクセシビリティ機能の比較：高齢の家族や聞き取りづらい人向けの設定（使用済み 2026-10-31, articles/vod-accessibility-subtitles-audio-description-settings.html）
 - 在宅ワークの「実績ゼロ」期間の乗り越え方：最初の案件を取るまでにできる準備と小さく始める方法（使用済み 2026-11-02, articles/remote-work-zero-track-record-first-job-preparation.html）
+- VODの無料体験中にやっておきたいチェックリスト：対応端末・画質・解約手順を期間内に確認する方法（使用済み 2026-11-05, articles/vod-free-trial-checklist-devices-quality-cancellation.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- VODの無料体験中にやっておきたいチェックリスト：対応端末・画質・解約手順を期間内に確認する方法
 - 在宅ワークの評価・レビューの仕組み：低評価がついたときの対処と評価を積み上げる考え方
 - VODの年末年始・長期休暇の使い方：短期契約・一時停止・見たい作品の事前整理の考え方
 - 在宅ワークの作業記録と時給換算：案件ごとの時間を測って受ける仕事を見直す方法
