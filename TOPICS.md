@@ -48,9 +48,9 @@
 - 在宅ワークの「実績ゼロ」期間の乗り越え方：最初の案件を取るまでにできる準備と小さく始める方法（使用済み 2026-11-02, articles/remote-work-zero-track-record-first-job-preparation.html）
 - VODの無料体験中にやっておきたいチェックリスト：対応端末・画質・解約手順を期間内に確認する方法（使用済み 2026-11-05, articles/vod-free-trial-checklist-devices-quality-cancellation.html）
 - 在宅ワークの評価・レビューの仕組み：低評価がついたときの対処と評価を積み上げる考え方（使用済み 2026-11-07, articles/remote-work-rating-review-system-low-rating-response.html）
+- VODの年末年始・長期休暇の使い方：短期契約・一時停止・見たい作品の事前整理の考え方（使用済み 2026-11-09, articles/vod-year-end-long-holiday-short-term-pause-planning.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- VODの年末年始・長期休暇の使い方：短期契約・一時停止・見たい作品の事前整理の考え方
 - 在宅ワークの作業記録と時給換算：案件ごとの時間を測って受ける仕事を見直す方法
 - VODのオリジナル作品・独占配信の見分け方：配信終了・移籍で見られなくなる前に確認したいこと
 - 在宅ワークと家族の理解：生活時間との切り分けと家族に説明するときの整理の仕方
