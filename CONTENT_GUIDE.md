@@ -77,7 +77,7 @@
 `articles/` 配下の既存ファイル（例：`vod-free-trial-comparison.html`）をコピーして構造を踏襲すること。
 - `<link rel="stylesheet" href="../style.css">`
 - 直後に必ずアクセス解析タグを入れる：`<script data-goatcounter="https://toku-kurashi.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>`
-- 見出し`h1`→更新日`<p class="date">`→**サムネイル画像（あれば）**`<img src="../images/<slug>.png" alt="..." class="article-thumb">`→本文→比較表（該当する場合）→`.cta`→`<div class="disclosure">`定型免責文→`<a class="back" href="../index.html">`
+- 見出し`h1`→更新日`<p class="date">`→**サムネイル画像（あれば）**`<img src="../images/<slug>.png" alt="..." class="article-thumb">`→本文→比較表（該当する場合）→`.cta`→`<div class="disclosure">`定型免責文→`<a class="back" href="../index.html">`。**`</body>` の直前に `<script src="../article.js" defer></script>` を必ず入れる**（2026-11-10〜・目次の自動生成と表の横スクロール。目次は h2 が3つ以上で自動表示されるので、目次を手書きしない）
 
 ### サムネイル画像について（2026-08-06〜運用開始）
 - 画像はユーザーがGemini等で生成し、Discord添付で送ってもらう（このPCではCodex CLI未インストールのため）。
