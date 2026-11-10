@@ -89,10 +89,11 @@
 ## 実行手順（このガイドを参照するタスクが毎回行うこと）
 1. `TOPICS.md` を読み、`未使用`の中から1つ選ぶ（ジャンルはVOD/クラウドソーシング両方から順番に）
 2. `articles/<slug>.html` を新規作成し、客観的な情報記事を書く（該当するアフィリエイトリンクを1〜2個、上記から選んで`.cta`で挿入）
-3. `index.html` の `<main>` 内、一覧の一番上に新しい記事カードを追加（既存カードは残す）。`<div class="card">` タグに `data-tag="tag-vod"` または `data-tag="tag-work"` を付ける（ヘッダーのフィルターメニューが参照する）。カードの一番最初の子要素として `<span class="card-icon">📺</span>`（VOD系）または `<span class="card-icon">💼</span>`（お仕事系）を入れる。その直後の `<span class="date">` の直後にジャンルタグを付ける：VOD系記事は `<span class="tag tag-vod">VOD</span>`、クラウドソーシング系記事は `<span class="tag tag-work">お仕事</span>`
+3. `index.html` の `<main>` 内、一覧の一番上に新しい記事カードを追加（既存カードは残す）。`<div class="card">` タグに `data-tag="tag-vod"` または `data-tag="tag-work"` を付ける（ヘッダーのフィルターメニューが参照する）。**カードの一番最初の子要素はサムネイル**：`<a class="card-thumb" href="articles/<slug>.html" tabindex="-1" aria-hidden="true"><img src="images/<slug>.png" alt="" loading="lazy" width="1280" height="720"></a>`（2026-11-10〜・サムネを先に作ってから入れる）。その次の子要素として `<span class="card-icon">📺</span>`（VOD系）または `<span class="card-icon">💼</span>`（お仕事系）を入れる。その直後の `<span class="date">` の直後にジャンルタグを付ける：VOD系記事は `<span class="tag tag-vod">VOD</span>`、クラウドソーシング系記事は `<span class="tag tag-work">お仕事</span>`
    例：
    ```html
    <div class="card" data-tag="tag-vod">
+     <a class="card-thumb" href="articles/xxx.html" tabindex="-1" aria-hidden="true"><img src="images/xxx.png" alt="" loading="lazy" width="1280" height="720"></a>
      <span class="card-icon">📺</span>
      <span class="date">2026-08-05</span><span class="tag tag-vod">VOD</span>
      <h2><a href="articles/xxx.html">記事タイトル</a></h2>
