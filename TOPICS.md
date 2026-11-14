@@ -50,9 +50,9 @@
 - 在宅ワークの評価・レビューの仕組み：低評価がついたときの対処と評価を積み上げる考え方（使用済み 2026-11-07, articles/remote-work-rating-review-system-low-rating-response.html）
 - VODの年末年始・長期休暇の使い方：短期契約・一時停止・見たい作品の事前整理の考え方（使用済み 2026-11-09, articles/vod-year-end-long-holiday-short-term-pause-planning.html）
 - ABEMAプレミアムと広告つきプランの違い：料金・見られる範囲・どちらを選ぶかの考え方（使用済み 2026-11-12, articles/abema-premium-vs-ad-supported-plan-difference.html）
+- ABEMAプレミアムの解約手順：iPhone・Android・Webなど支払い方法で解約場所が違う点の整理（使用済み 2026-11-14, articles/abema-premium-cancellation-steps-by-payment-method.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- ABEMAプレミアムの解約手順：iPhone・Android・Webなど支払い方法で解約場所が違う点の整理
 - ABEMAをテレビで見る方法：Fire TV・Chromecast・テレビ本体のアプリ別の準備と注意点
 - ABEMAは無料でどこまで見られるか：見逃し視聴・追っかけ再生とプレミアム限定の範囲
 - ABEMAのダウンロード機能：保存できる作品・視聴期限・端末の容量の目安
