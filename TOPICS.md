@@ -52,9 +52,9 @@
 - ABEMAプレミアムと広告つきプランの違い：料金・見られる範囲・どちらを選ぶかの考え方（使用済み 2026-11-12, articles/abema-premium-vs-ad-supported-plan-difference.html）
 - ABEMAプレミアムの解約手順：iPhone・Android・Webなど支払い方法で解約場所が違う点の整理（使用済み 2026-11-14, articles/abema-premium-cancellation-steps-by-payment-method.html）
 - ABEMAをテレビで見る方法：Fire TV・Chromecast・テレビ本体のアプリ別の準備と注意点（使用済み 2026-11-16, articles/abema-watch-on-tv-fire-tv-chromecast-smart-tv-setup.html）
+- ABEMAは無料でどこまで見られるか：見逃し視聴・追っかけ再生とプレミアム限定の範囲（使用済み 2026-11-19, articles/abema-free-viewing-range-catchup-premium-only.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- ABEMAは無料でどこまで見られるか：見逃し視聴・追っかけ再生とプレミアム限定の範囲
 - ABEMAのダウンロード機能：保存できる作品・視聴期限・端末の容量の目安
 - ABEMAのセットプラン（Disney+など）は単体契約より得か：料金と見る作品からの判断
 - Netflixの広告つきプランでできないこと：ダウンロード・見られない作品・画質の違い
