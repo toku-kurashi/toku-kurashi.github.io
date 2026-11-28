@@ -56,9 +56,9 @@
 - ABEMAのダウンロード機能：保存できる作品・視聴期限・端末の容量の目安（使用済み 2026-11-21, articles/abema-download-feature-eligible-titles-expiry-storage.html）
 - ABEMAのセットプラン（Disney+など）は単体契約より得か：料金と見る作品からの判断（使用済み 2026-11-23, articles/abema-disney-plus-set-plan-vs-separate-cost.html）
 - Netflixの広告つきプランでできないこと：ダウンロード・見られない作品・画質の違い（使用済み 2026-11-26, articles/netflix-ad-supported-plan-limitations-download-quality.html）
+- U-NEXTのポイントの使い道：毎月のポイントで見られるもの・期限・損しない使い方（使用済み 2026-11-28, articles/unext-points-usage-expiry-how-to-spend.html）
 
 ## 未使用（この順番で使っていく。無くなったら似た方向性で追加する）
-- U-NEXTのポイントの使い道：毎月のポイントで見られるもの・期限・損しない使い方
 - DMM TVとDMMプレミアムの違い：料金・見放題の範囲・ほかのDMMサービスとの関係
 - Amazonプライムビデオの見放題とレンタルの見分け方：うっかり有料を防ぐ確認ポイント
 - VODのオリジナル作品・独占配信の見分け方：配信終了・移籍で見られなくなる前に確認したいこと
